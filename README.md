@@ -11,7 +11,7 @@ _python:_
 - matplotlib for reading and showing images  
 - opencv2 for some image operations  
 
-_c++:_  
+_c++:__  
 - opencv2  
 
 <strong>Usage</strong>  
